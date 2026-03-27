@@ -1,10 +1,10 @@
 import { DayPlan, Member, Phrase, LocationDetail } from './types';
 
 export const MEMBERS: Member[] = [
-  { id: '1', name: 'User 1', avatar: '/images/avatar-user1.jpg' },
-  { id: '2', name: 'User 2', avatar: '/images/avatar-user2.jpg' },
-  { id: '3', name: 'User 3', avatar: '/images/avatar-user3.jpg' },
-  { id: '4', name: 'User 4', avatar: '/images/avatar-user4.jpg' },
+  { id: '1', name: '廷', avatar: '/images/avatar-user1.png' },
+  { id: '2', name: '佑', avatar: '/images/avatar-user2.png' },
+  { id: '3', name: 'ㄗ', avatar: '/images/avatar-user3.png' },
+  { id: '4', name: '萱', avatar: '/images/avatar-user4.png' },
 ];
 
 export const LOCATION_DETAILS: LocationDetail[] = [
